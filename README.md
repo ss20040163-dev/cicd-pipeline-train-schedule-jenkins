@@ -1,4 +1,8 @@
-Another change to see if this still works......
+Removed network config, and re-added it a few hours later - Does it still work? - 
+
+
+
+Another change to see if this still works......Oh yes.
 
 Another change.....this one worked!!!!
 
